@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mesha vegas</h1>
-<h3 align="center">A passionate frontend developer from Cameroon,Je suis un professionnel du développement avec une expérience significative dans le développement web et logiciel. Ma double compétence en JavaScript et Java me permet de concevoir des solutions complètes, de la création d'interfaces utilisateur interactives à la mise en place de robustes backends.</h3>
+<h3 align="center"> <strtong>Passionate Front-End Developer from Cameroon</strtong> <br/>
+I am a professional web and software developer with significant experience. My dual expertise in JavaScript and Java allows me to design and implement comprehensive solutions, from creating interactive user interfaces to developing robust backends..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshavegas&label=Profile%20views&color=0e75b6&style=flat" alt="meshavegas" /> </p>
 
