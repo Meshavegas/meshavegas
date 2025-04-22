@@ -48,17 +48,32 @@
 
 ### 🚀 Featured Projects
 
-1. **[School Management Platform](https://classic-quail-excited.ngrok-free.app/dashboard)**  
-   Full-stack educational ecosystem with real-time analytics
+1. **School Management Platform**  
+   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)  
+   Comprehensive educational management system with real-time analytics  
+   [View Code](https://github.com/Meshavegas/School-Management-System)
 
-2. **Portfolio 2.0**  
-   Modern showcase built with Next.js & Tailwind CSS  
-   [Live Demo](https://porfolio-next-sigma.vercel.app/)
+2. **Modern Portfolio (Next.js)**  
+   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss)  
+   Professional showcase with dynamic project presentations  
+   [Live Demo](https://porfolio-next-sigma.vercel.app/) | [Repository](https://github.com/Meshavegas/porfolio-next)
+
+3. **E-commerce Platform**  
+   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring)  
+   Full-stack shopping solution with payment integration  
+   [Explore Code](https://github.com/Meshavegas/E-commerce)
+
+4. **Todo Application**  
+   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)  
+   Task management system with drag-and-drop functionality  
+   [Try Demo](https://meshavegas.github.io/React-Todo-App/) | [Source](https://github.com/Meshavegas/React-Todo-App)
 
 ---
 
-### 💌 Let's Collaborate!
+### 💡 Collaboration Ready!
+- 🔍 **Review Mode**: Available for code reviews/audits
+- 🛠️ **Enhancements**: Open to feature upgrades & optimizations
+- 🌐 **Deployment Support**: Can containerize existing projects
+- ⏱️ **Availability**: 15-20 hrs/week for mission-based work
 
-- 📧 **Email**: meshavegas@gmail.com
-- 💼 **Available for**: Freelance missions & innovative projects
-- 🌍 **Based in**: Cameroon (Remote Worldwide)
+📩 **Let's Discuss**: meshavegas@gmail.com | [Twitter DM](https://twitter.com/VegasMesha)
